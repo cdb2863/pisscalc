@@ -3,6 +3,7 @@
 
 # Utilization
 `python pisscalc.py 192.168.0.0/25`
+## Output
 ```
 [Network Address]: 192.168.0.0
 [Subnet Mask]: 255.255.255.128
