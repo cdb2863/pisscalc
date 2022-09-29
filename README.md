@@ -3,4 +3,3 @@
 
 # Utilization
 `python pisscalc.py 192.168.0.0/25`
-`python pissclac.py <network_address/prefix_length>`
